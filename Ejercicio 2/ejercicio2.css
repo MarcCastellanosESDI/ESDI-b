@@ -1,0 +1,33 @@
+div{
+  margin: 4px;
+  
+}
+.head{
+  width: 100%;
+  background-color: orange;
+  height: 50px;
+}
+.menu{
+  width: 100%;
+  background-color: orange;
+  height: 50px;
+}
+.content{
+  width: 100%;
+  height: 200px;
+  display: flex;
+  
+}
+.col25{
+  width: 25%;
+  background-color: orange;
+}
+.col50{
+  width: 50%;
+    background-color: orange; 
+}
+.footer{
+  width: 100%;
+  background-color: orange;
+  height: 50px;
+}
